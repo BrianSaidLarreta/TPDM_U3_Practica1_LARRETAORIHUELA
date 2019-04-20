@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1002448445046",
+    "firebase_url": "https://tpdmu3proyecto1-ce26e.firebaseio.com",
+    "project_id": "tpdmu3proyecto1-ce26e",
+    "storage_bucket": "tpdmu3proyecto1-ce26e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002448445046:android:f4d9f52217990372",
+        "android_client_info": {
+          "package_name": "com.example.tpdm_u3_ejercicio1_larretaorihuela"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002448445046-dla051fs9gcp2923avll249mbgc41rso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzKGysfKCQU9lAb6ijLgYMEGufDPM5drc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002448445046-dla051fs9gcp2923avll249mbgc41rso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002448445046:android:9e6a4953dec411bc",
+        "android_client_info": {
+          "package_name": "com.example.tpdm_u3_ejercicio2_larretaorihuela"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002448445046-dla051fs9gcp2923avll249mbgc41rso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzKGysfKCQU9lAb6ijLgYMEGufDPM5drc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002448445046-dla051fs9gcp2923avll249mbgc41rso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002448445046:android:8fd24a08e8b4c8b4",
+        "android_client_info": {
+          "package_name": "com.example.tpdm_u3_practica1_larretaorihuela"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002448445046-dla051fs9gcp2923avll249mbgc41rso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzKGysfKCQU9lAb6ijLgYMEGufDPM5drc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002448445046-dla051fs9gcp2923avll249mbgc41rso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
